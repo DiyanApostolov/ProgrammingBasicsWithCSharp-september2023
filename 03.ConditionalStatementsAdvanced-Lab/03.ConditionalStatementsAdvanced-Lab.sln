@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DayOfWeek", "01.DayOfWeek\01.DayOfWeek.csproj", "{1B8E5348-B3C4-4322-9C0B-97635BFC66D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.DayOfWeek", "01.DayOfWeek\01.DayOfWeek.csproj", "{1B8E5348-B3C4-4322-9C0B-97635BFC66D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.WeekendOrWorkingDay", "02.WeekendOrWorkingDay\02.WeekendOrWorkingDay.csproj", "{044706C5-8D32-488F-8555-9BABE8BAD2F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.WeekendOrWorkingDay", "02.WeekendOrWorkingDay\02.WeekendOrWorkingDay.csproj", "{044706C5-8D32-488F-8555-9BABE8BAD2F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PersonalTitles", "04.PersonalTitles\04.PersonalTitles.csproj", "{44CA4708-F530-45D1-A6B5-95381DF1ECA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.PersonalTitles", "04.PersonalTitles\04.PersonalTitles.csproj", "{44CA4708-F530-45D1-A6B5-95381DF1ECA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SmallShop", "05.SmallShop\05.SmallShop.csproj", "{D116F31F-104B-49DE-B483-680DDF72A690}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.SmallShop", "05.SmallShop\05.SmallShop.csproj", "{D116F31F-104B-49DE-B483-680DDF72A690}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.NumberInRange", "06.NumberInRange\06.NumberInRange.csproj", "{1EF8AFCD-38D4-4D51-AA5E-06F477FC5BB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.NumberInRange", "06.NumberInRange\06.NumberInRange.csproj", "{1EF8AFCD-38D4-4D51-AA5E-06F477FC5BB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CinemaTicket", "08.CinemaTicket\08.CinemaTicket.csproj", "{351C50C5-89C2-40BD-B392-645B97897629}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.CinemaTicket", "08.CinemaTicket\08.CinemaTicket.csproj", "{351C50C5-89C2-40BD-B392-645B97897629}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.InvalidNumber", "10.InvalidNumber\10.InvalidNumber.csproj", "{93AEF442-6EA2-4B32-A273-785E87519DF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.InvalidNumber", "10.InvalidNumber\10.InvalidNumber.csproj", "{93AEF442-6EA2-4B32-A273-785E87519DF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.FruitShop", "11.FruitShop\11.FruitShop.csproj", "{91FF6FD2-5D9F-4B9D-9EF9-6758AFA4E3C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{93AEF442-6EA2-4B32-A273-785E87519DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93AEF442-6EA2-4B32-A273-785E87519DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93AEF442-6EA2-4B32-A273-785E87519DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91FF6FD2-5D9F-4B9D-9EF9-6758AFA4E3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FF6FD2-5D9F-4B9D-9EF9-6758AFA4E3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FF6FD2-5D9F-4B9D-9EF9-6758AFA4E3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FF6FD2-5D9F-4B9D-9EF9-6758AFA4E3C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
